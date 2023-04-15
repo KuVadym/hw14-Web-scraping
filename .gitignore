@@ -135,3 +135,6 @@ cython_debug/
 
 .idea/
 .space
+
+/web_scraping_spyder_task_fromupwork/chromedriver.exe
+/web_scraping_spyder_task_fromupwork/LICENSE.chromedriver
